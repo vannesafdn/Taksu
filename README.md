@@ -5,7 +5,7 @@
 ![image](https://user-images.githubusercontent.com/38001183/124387972-c33e8d00-dd0a-11eb-918a-679255984df2.png)
 3. jika anda otomatis di arahkan ke browser maka program telah berhasil dijalankan.
 4. setelah itu buka aplikasi testing API (posman)
-5. lalu pilih import pada menu file, dan pilih file Taksu.postman_collection.curl
+5. lalu pilih import pada menu file, dan pilih file carworkshop.postman_collection.curl
 6. anda dapat melakukan testing terhadap url yang ada.
 7. lakukan hal yang sama untuk file taksuAPI - Service
 
